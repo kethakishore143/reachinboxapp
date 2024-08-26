@@ -31,7 +31,7 @@
     gap: 48px;
     border-radius: 17px 0px 0px 0px;
     border: 1px 0px 0px 0px;
-    opacity: 0px;
+    opacity: 1;
     border: 1px solid var(--Border-1, #343A40);
     background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
 
