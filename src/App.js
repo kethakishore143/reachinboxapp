@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Login from './Components/Loginpage/Login';
 import Onebox from './Components/Onebox/Onebox';
 
