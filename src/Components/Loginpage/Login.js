@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
 import { FcGoogle } from "react-icons/fc";
 import ".//Login.css";
 import Header from '../Header/Header';
@@ -19,7 +20,9 @@ function Login() {
                         </div>
                     </div>
                     <div className='createaccountbtn-container'>
-                        <button className='create-ac-btn'>Create an Account</button>
+                        <Link to="/reachinboxapp/onebox">
+                            <button className='create-ac-btn'>Create an Account</button>
+                        </Link>
                         <p className='already_ac'>Already have an account? <span className='sigin'>Sign In</span></p>
                     </div>
                 </div>
