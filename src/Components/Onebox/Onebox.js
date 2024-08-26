@@ -8,22 +8,6 @@ import Failureview from '../Failureview/Failureview';
 
 const Onebox = () => {
 
-    var requestOptions = {
-        method: 'GET',
-        redirect: 'follow'
-    };
-
-
-    const datafetch = async () => {
-        const data = await fetch("https://hiring.reachinbox.xyz/api/v1/onebox/list", requestOptions);
-        let response = await data.json();
-        console.log(response);
-
-    }
-
-
-    datafetch();
-
     return (
 
         <div className='maincards-container'>
