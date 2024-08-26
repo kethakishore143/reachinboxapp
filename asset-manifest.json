@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reachinboxapp/static/css/main.48fc5b2a.css",
+    "main.css": "/reachinboxapp/static/css/main.b17c3ac7.css",
     "main.js": "/reachinboxapp/static/js/main.45ce18be.js",
     "index.html": "/reachinboxapp/index.html",
-    "main.48fc5b2a.css.map": "/reachinboxapp/static/css/main.48fc5b2a.css.map",
+    "main.b17c3ac7.css.map": "/reachinboxapp/static/css/main.b17c3ac7.css.map",
     "main.45ce18be.js.map": "/reachinboxapp/static/js/main.45ce18be.js.map"
   },
   "entrypoints": [
-    "static/css/main.48fc5b2a.css",
+    "static/css/main.b17c3ac7.css",
     "static/js/main.45ce18be.js"
   ]
 }
